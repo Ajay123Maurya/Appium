@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test1(failed)">
+    <parameter name="platformVersion_" value="7.0 NRD90M"/>
+    <parameter name="URL_" value="0.0.0.0:4723/wd/hub"/>
+    <parameter name="UDID_" value="93ffd01a0803"/>
+    <parameter name="deviceName_" value="MauryaJi"/>
+    <classes>
+      <class name="com.appium.test.TestCase3">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="f"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.appium.test.TestCase3 -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->

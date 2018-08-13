@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="683" started-at="2018-01-19T12:57:42Z" finished-at="2018-01-19T12:57:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="683" started-at="2018-01-19T12:57:42Z" finished-at="2018-01-19T12:57:42Z">
+      <class name="com.appium.test.TestCase2">
+        <test-method status="PASS" signature="ContactScroll()[pri:0, instance:com.appium.test.TestCase2@2fd66ad3]" name="ContactScroll" duration-ms="665" started-at="2018-01-19T18:27:42Z" finished-at="2018-01-19T18:27:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContactScroll -->
+      </class> <!-- com.appium.test.TestCase2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
